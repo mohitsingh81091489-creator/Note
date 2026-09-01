@@ -3,7 +3,7 @@
 ### lets star with while loop 
 i= 1
 while i<=5 :
-    print("hello bhai ")
+    print("hello Chotte bhai ")
     i+=1 ## ye baat yaad karkhna ki agr tum ne ye i+= 1 nahi kiya to ye ek infinite loop bn jaaye gaaa and if you not stop that
     ## your system will crashh 
 ### iterator = variable in loop
