@@ -1,0 +1,4 @@
+hi everyone
+ we are learning file\os
+using python
+i like programing python

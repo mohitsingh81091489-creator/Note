@@ -1,0 +1,26 @@
+### we have create this file beacuse i want to practice file handling in python
+let start our practice 
+The second argument is the mode:
+
+"r" → read a file
+"w" → write to a file (overwrites existing content)
+"a" → append to a file
+"x" → create a new file
+"r+" → read and write   ## this are some function that you need to remind beacuse 
+I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ I am the greatest of all time
+ 
